@@ -12,13 +12,13 @@ git clone --recursive https://github.com/Eaffy/react-native-basic-component-demo
 ```
 cd react-native-basic-component-demo && npm install
 ```
-2. Open app
+3. Open app
 
-iOS
+  iOS
 ```
 npm run ios
 ```
-Android
+  Android
 ```
 npm run android
 ```
